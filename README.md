@@ -22,7 +22,7 @@ This project helps understand **asynchronous JS, APIs, JSON parsing, and error h
 - **JavaScript (Fetch API)** – Fetching and displaying data
 
 ---
-🧪 Testing
+## 🧪 Testing
 
 Normal case: Users are displayed in cards with name, email, and address.
 
